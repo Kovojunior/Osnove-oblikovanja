@@ -1,0 +1,2 @@
+V datoteki vizitke.pdf sem oddal posamezne vizitke ločeno, da se lahko spremlja vrstni red izdelave. Stran 1 predstavlja prvo vizitko, 5 pa zadnjo.
+Povezava do priročnika za celostno grafično podobo podjetja: https://brandingstyleguides.com/guide/honda-2021/
